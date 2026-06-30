@@ -1,9 +1,9 @@
 /**
- * File: CS106A_99BottlesOfBeer.java
+ * File: CS106A_KnickKnackPaddyWhack.java
  * ----------------------------
- * This Java program sings the song "99 bottles of beer on the wall"
- * after asking the user how many bottles of beer they'd like to 
- * start with.
+ * This Java program sings the song "This old man" aka
+ * "Knick-Knack Paddy-Whack", changing the lyrics at appropriate 
+ * points via a switch case.
  */
 
 import acm.program.*;
